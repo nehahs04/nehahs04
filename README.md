@@ -15,7 +15,7 @@
 - 💼 **Experience:** Former **Cybersecurity Intern** at **MAHE–ISAC Centre of Excellence for Cybersecurity, Manipal**, where I developed Graph Attention Network (GAT) solutions for anomaly detection in smart grid systems.
 - 📝 **Research:** Published author in **IJCRT** for research on interactive algorithm visualization platforms.
 - 🥋 **Athletics & Leadership:** **NCC Cadet (8 KAR BN)**, **VTU State-Level Taekwondo Medals** (Silver 2024, Bronze 2026), and represented Karnataka in **Khelo India Beach Games 2026**.
-- 💡 **Passionate About:** Data Structures & Algorithms, Full-Stack Development, Graph Neural Networks, Machine Learning, and Cyber-Physical Systems security.
+- 💡 **Passionate About:** Data Structures & Algorithms, Full-Stack Development, Retrieval-Augmented Generation (RAG), Graph Neural Networks, Machine Learning, and Cyber-Physical Systems security.
 - 🎯 **Career Goal:** Seeking opportunities as a Software Developer and ML Engineer to build scalable, impactful software solutions.
 
 ---
@@ -25,10 +25,10 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `Java` • `Python` • `C` • `C++` • `SQL` • `JavaScript` • `HTML5/CSS3` |
-| **AI / Machine Learning** | `PyTorch` • `PyTorch Geometric` • `Scikit-learn` • `Pandas` • `NumPy` • `K-Means` • `GAT` |
+| **AI / Machine Learning & GenAI** | `Retrieval-Augmented Generation (RAG)` • `PyTorch` • `PyTorch Geometric` • `Scikit-learn` • `Pandas` • `NumPy` • `K-Means` • `GAT` |
 | **Core Engineering** | `Data Structures & Algorithms (DSA)` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` |
 | **Databases** | `MySQL` • `MongoDB` |
-| **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `UNIX Shell Scripting` |
+| **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Streamlit` • `UNIX Shell Scripting` |
 
 ---
 
@@ -36,6 +36,18 @@
 
 <table width="100%">
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 <a href="https://github.com/nehahs04/RAG-Document-QA-System">RAG Document Q&A System</a></h3>
+      <p align="center"><b>Retrieval-Augmented Generation & Vector Search</b></p>
+      <ul>
+        <li>End-to-end <b>RAG pipeline</b> eliminating LLM hallucinations through context grounding.</li>
+        <li>Implements <b>recursive semantic chunking</b>, vector embeddings, and <b>cosine similarity top-k search</b>.</li>
+        <li>Interactive <b>Streamlit dashboard</b> featuring dynamic chunk tuning and source passage inspection.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>RAG</code> • <code>Streamlit</code> • <code>Vector DB</code> • <code>Scikit-learn</code>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🌐 <a href="https://github.com/nehahs04/Algorithm-Visualizer">Algorithm Visualizer</a></h3>
       <p align="center"><b>Full-Stack Visualizer & Published Research in IJCRT</b></p>
@@ -48,6 +60,8 @@
         <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Canvas API</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/nehahs04/Smart-Grid-FDIA-Detection-GAT">Smart Grid FDIA Detection using GAT</a></h3>
       <p align="center"><b>Cybersecurity & Graph Neural Network Research</b></p>
@@ -60,11 +74,9 @@
         <code>Python</code> • <code>PyTorch Geometric</code> • <code>NetworkX</code> • <code>Scikit-learn</code>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">📊 <a href="https://github.com/nehahs04/Customer-Segmentation-ML">Customer Segmentation System</a></h3>
-      <p align="center"><b>Unsupervised Machine Learning & Interactive Business Analytics</b></p>
+      <p align="center"><b>Unsupervised Machine Learning & Interactive Analytics</b></p>
       <ul>
         <li>Built an end-to-end customer clustering engine using <b>K-Means Clustering</b> and PCA dimensionality reduction.</li>
         <li>Automated optimal cluster validation using the <b>Elbow Method (WCSS)</b> and <b>Silhouette Analysis</b>.</li>
